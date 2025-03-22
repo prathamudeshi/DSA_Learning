@@ -18,7 +18,6 @@ int bs(vector<int> arr, int l, int r, int key){
 
 int main(){
     vector<int> arr = { 1, 2, 3, 4, 5, 6};
-    cout<<arr.size()<<endl;
     cout<<bs(arr,0,arr.size()-1,3);
     return 0;
 }
