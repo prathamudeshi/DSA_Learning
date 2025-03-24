@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 void soln(stack<int> &stk, int k){
     if(stk.empty()){
         stk.push(k);
