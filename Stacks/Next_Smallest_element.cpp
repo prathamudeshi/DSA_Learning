@@ -18,4 +18,4 @@ vector<int> nextSmallerElement(vector<int> &arr, int n)
     }
     return ans;
     // Write your code here.
-}
+}cd
